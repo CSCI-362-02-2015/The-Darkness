@@ -1,0 +1,6 @@
+id011
+string1, string2
+fuzz
+partial_ratio
+Blue BackPack|Black Backpack
+69

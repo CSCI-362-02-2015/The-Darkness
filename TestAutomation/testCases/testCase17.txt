@@ -1,0 +1,6 @@
+id017
+string1, string2
+fuzz
+partial_ratio
+alligator|3 alligator
+100

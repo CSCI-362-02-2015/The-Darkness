@@ -1,0 +1,6 @@
+id007
+string1, string2
+fuzz
+partial_ratio
+New york|new York
+75

@@ -1,0 +1,6 @@
+id018
+string1, string2
+fuzz
+partial_ratio
+alright!|alright
+100

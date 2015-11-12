@@ -1,0 +1,6 @@
+id022
+string1, string2
+fuzz
+partial_ratio
+Miami Beach|MIAMI beach
+54

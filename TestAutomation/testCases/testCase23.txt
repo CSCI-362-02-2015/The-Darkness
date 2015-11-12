@@ -1,0 +1,6 @@
+id023
+string1, string2
+fuzz
+partial_ratio
+All the shelves|All the books
+69

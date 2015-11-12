@@ -1,0 +1,6 @@
+id010
+string1, string2
+fuzz
+partial_ratio
+Playing games|playing g s
+72

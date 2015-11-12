@@ -1,0 +1,6 @@
+id019
+string1, string2
+fuzz
+partial_ratio
+totally|totally
+100

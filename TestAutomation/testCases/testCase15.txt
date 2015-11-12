@@ -1,0 +1,6 @@
+id015
+string1, string2
+fuzz
+partial_ratio
+Trip to Chicago|trips
+60

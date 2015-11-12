@@ -1,0 +1,6 @@
+id025
+string1, string2
+fuzz
+partial_ratio
+Earth is round|Earth is round
+100

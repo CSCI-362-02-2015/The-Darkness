@@ -1,0 +1,6 @@
+id012
+string1, string2
+fuzz
+partial_ratio
+Sweet Alabama|Sweeet Alabama
+92

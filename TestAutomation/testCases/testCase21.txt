@@ -1,0 +1,6 @@
+id021
+string1, string2
+fuzz
+partial_ratio
+Black Friday|black monday
+66

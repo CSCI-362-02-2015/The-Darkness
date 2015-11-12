@@ -1,0 +1,6 @@
+id014
+string1, string2
+fuzz
+partial_ratio
+Space Needle|Needle Space
+50

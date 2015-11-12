@@ -1,0 +1,6 @@
+id020
+string1, string2
+fuzz
+partial_ratio
+wrong|w r o n g
+60
