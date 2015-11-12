@@ -1,0 +1,45 @@
+Test id001
+Requirement: string1, string2
+Component: fuzz
+Method: ratio
+Input parameters: This is a test, This is a tess
+Actual output: 93
+Expected output: 93
+PASSED
+
+Test id002
+Requirement: string1, string2
+Component: fuzz
+Method: ratio
+Input parameters:  , a
+Actual output: 0
+Expected output: 0
+PASSED
+
+Test id003
+Requirement: string1, string2
+Component: fuzz
+Method: ratio
+Input parameters: a, b
+Actual output: 0
+Expected output: 0
+PASSED
+
+Test id004
+Requirement: string1, string2
+Component: fuzz
+Method: ratio
+Input parameters: a, aa
+Actual output: 67
+Expected output: 50
+FAILED
+
+Test id005
+Requirement: string1, string2
+Component: fuzz
+Method: ratio
+Input parameters: This is a test, This is a tsss
+Actual output: 86
+Expected output: 86
+PASSED
+

@@ -1,0 +1,6 @@
+id004
+string1, string2
+fuzz
+ratio
+a|aa
+50

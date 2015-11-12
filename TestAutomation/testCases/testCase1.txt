@@ -1,0 +1,6 @@
+id001
+string1, string2
+fuzz
+ratio
+This is a test|This is a tess
+93

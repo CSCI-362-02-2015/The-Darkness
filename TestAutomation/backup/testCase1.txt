@@ -1,0 +1,6 @@
+id001
+string1, string2
+fuzzy
+ratio
+New York, New York
+100
