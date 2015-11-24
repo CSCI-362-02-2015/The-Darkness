@@ -1,6 +1,6 @@
-id008
-string1, string2
+id8
+string1, string2 partial ratio
 fuzz
 partial_ratio
-Milkway|milkwayy
-85
+a|b
+0

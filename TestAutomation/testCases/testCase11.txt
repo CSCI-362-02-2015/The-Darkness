@@ -1,6 +1,6 @@
-id011
-string1, string2
+id11
+string1, string2 partial ratio
 fuzz
-partial_ratio
-Blue BackPack|Black Backpack
-69
+QRatio
+This is a test|This is a tess
+93

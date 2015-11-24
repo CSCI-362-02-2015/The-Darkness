@@ -1,6 +1,6 @@
-id016
-string1, string2
+id16
+string1, string2 partial ratio
 fuzz
-partial_ratio
-WHAT HAPPEND|what happend
-8
+UQRatio
+This is a test|This is a tess
+93

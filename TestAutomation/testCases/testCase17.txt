@@ -1,6 +1,6 @@
-id017
-string1, string2
+id17
+string1, string2 partial ratio
 fuzz
-partial_ratio
-alligator|3 alligator
-100
+UQRatio
+ |a
+0

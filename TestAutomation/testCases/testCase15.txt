@@ -1,6 +1,6 @@
-id015
-string1, string2
+id15
+string1, string2 partial ratio
 fuzz
-partial_ratio
-Trip to Chicago|trips
-60
+QRatio
+This is a test| 
+0

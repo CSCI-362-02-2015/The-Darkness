@@ -1,6 +1,6 @@
-id012
-string1, string2
+id12
+string1, string2 partial ratio
 fuzz
-partial_ratio
-Sweet Alabama|Sweeet Alabama
-92
+QRatio
+ |a
+0

@@ -1,6 +1,6 @@
-id024
-string1, string2
+id24
+string1, string2 partial ratio
 fuzz
-partial_ratio
-exactly| exactly
-100
+WRatio
+a|aa
+90

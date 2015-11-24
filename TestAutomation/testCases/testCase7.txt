@@ -1,6 +1,6 @@
-id007
-string1, string2
+id7
+string1, string2 partial ratio
 fuzz
 partial_ratio
-New york|new York
-75
+ |a
+0

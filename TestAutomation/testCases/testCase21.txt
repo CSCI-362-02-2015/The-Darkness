@@ -1,6 +1,6 @@
-id021
-string1, string2
+id21
+string1, string2 partial ratio
 fuzz
-partial_ratio
-Black Friday|black monday
-66
+WRatio
+This is a test|This is a tess
+93

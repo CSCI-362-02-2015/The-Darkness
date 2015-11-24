@@ -1,6 +1,6 @@
-id004
-string1, string2
+id4
+string1, string2 ratio
 fuzz
 ratio
-a|aa
-50
+a|Aa
+67

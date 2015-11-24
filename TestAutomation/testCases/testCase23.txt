@@ -1,6 +1,6 @@
-id023
-string1, string2
+id23
+string1, string2 partial ratio
 fuzz
-partial_ratio
-All the shelves|All the books
-69
+WRatio
+a|b
+0

@@ -1,6 +1,6 @@
-id013
-string1, string2
+id13
+string1, string2 partial ratio
 fuzz
-partial_ratio
-Fast cars|Fast trains
-66
+QRatio
+a|b
+0

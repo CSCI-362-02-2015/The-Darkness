@@ -1,6 +1,6 @@
-id022
-string1, string2
+id22
+string1, string2 partial ratio
 fuzz
-partial_ratio
-Miami Beach|MIAMI beach
-54
+WRatio
+ |a
+0

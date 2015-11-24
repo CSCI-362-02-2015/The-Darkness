@@ -1,6 +1,6 @@
-id025
-string1, string2
+id25
+string1, string2 partial ratio
 fuzz
-partial_ratio
-Earth is round|Earth is round
-100
+WRatio
+This is a test| 
+0

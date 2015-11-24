@@ -1,6 +1,6 @@
-id010
-string1, string2
+id10
+string1, string2 partial ratio
 fuzz
 partial_ratio
-Playing games|playing g s
-72
+a| 
+0

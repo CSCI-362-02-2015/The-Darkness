@@ -1,6 +1,6 @@
-id014
-string1, string2
+id14
+string1, string2 partial ratio
 fuzz
-partial_ratio
-Space Needle|Needle Space
-50
+QRatio
+a|aa
+67

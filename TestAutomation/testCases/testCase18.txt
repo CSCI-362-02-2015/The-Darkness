@@ -1,6 +1,6 @@
-id018
-string1, string2
+id18
+string1, string2 partial ratio
 fuzz
-partial_ratio
-alright!|alright
-100
+UQRatio
+a|b
+0

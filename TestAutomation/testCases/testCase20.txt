@@ -1,6 +1,6 @@
-id020
-string1, string2
+id20
+string1, string2 partial ratio
 fuzz
-partial_ratio
-wrong|w r o n g
-60
+UQRatio
+This is a test| 
+0

@@ -1,6 +1,6 @@
-id009
-string1, string2
+id9
+string1, string2 partial ratio
 fuzz
 partial_ratio
-Blue sky|b sk
-75
+a|aa
+100

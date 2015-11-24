@@ -1,5 +1,5 @@
-id002
-string1, string2
+id2
+string1, string2 ratio
 fuzz
 ratio
  |a
