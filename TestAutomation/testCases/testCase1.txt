@@ -1,5 +1,5 @@
 id1
-string1, string2 ratio
+Returns ratio of strings similarity as a percentage, using python difflib
 fuzz
 ratio
 This is a test|This is a tess

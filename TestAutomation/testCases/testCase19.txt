@@ -1,5 +1,5 @@
 id19
-string1, string2 partial ratio
+returns similarity ratio between two strings, api method, preserves unicode values of strings
 fuzz
 UQRatio
 a|aa

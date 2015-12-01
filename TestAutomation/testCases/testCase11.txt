@@ -1,5 +1,5 @@
 id11
-string1, string2 partial ratio
+returns similarity ratio between two strings, api method
 fuzz
 QRatio
 This is a test|This is a tess

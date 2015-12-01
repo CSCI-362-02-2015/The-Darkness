@@ -1,6 +1,0 @@
-New York,New York
-Orlando,Orlando
-Brazil,Brasilia
-Mexico,Mexican
-one,one
-two,ten

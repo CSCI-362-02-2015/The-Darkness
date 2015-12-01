@@ -1,5 +1,5 @@
 id8
-string1, string2 partial ratio
+Returns the ratio of the most similar substrings as a percentage
 fuzz
 partial_ratio
 a|b

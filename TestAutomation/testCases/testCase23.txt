@@ -1,5 +1,5 @@
 id23
-string1, string2 partial ratio
+interprets which algorithm would be better to use and returns string similarities using python difflib
 fuzz
 WRatio
 a|b

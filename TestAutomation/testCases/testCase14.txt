@@ -1,5 +1,5 @@
 id14
-string1, string2 partial ratio
+returns similarity ratio between two strings, api method
 fuzz
 QRatio
 a|aa
