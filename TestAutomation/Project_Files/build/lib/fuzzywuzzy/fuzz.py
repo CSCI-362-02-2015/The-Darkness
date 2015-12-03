@@ -46,8 +46,9 @@ def ratio(s1, s2):
     s1, s2 = utils.make_type_consistent(s1, s2)
 
     m = SequenceMatcher(None, s1, s2)
-    #FAULT ONE 1000 should be 100
-    return utils.intr(100 * m.ratio())
+    #FAULT ONE in the return statement below, change 100 to 1000
+    #FAULT TWO in the return statement below, change * to +
+    return utils.intr(1000 + m.ratio())
 
 
 # todo: skip duplicate indexes for a little more speed
@@ -87,8 +88,8 @@ def partial_ratio(s1, s2):
         else:
             scores.append(r)
 
-    #FAULT TWO 1000 should be 100
-    return int(100 * max(scores))
+    #FAULT THREE in the return statement below, change 100 to 1000
+    return int(1000 * max(scores))
 
 
 ##############################
@@ -146,10 +147,8 @@ def _token_set(s1, s2, partial=True, force_ascii=True):
     p2 = utils.full_process(s2, force_ascii=force_ascii)
 
     if not utils.validate_string(p1):
-        #FAULT THREE 100 should be 0
         return 0
     if not utils.validate_string(p2):
-        #FAULT FOUR 100 should be 0
         return 0
 
     # pull tokens
@@ -206,10 +205,11 @@ def QRatio(s1, s2, force_ascii=True):
     p2 = utils.full_process(s2, force_ascii=force_ascii)
 
     if not utils.validate_string(p1):
-        #FAULT FIVE 100 should be 0
-        return 0
+        #FAULT FOUR in the return statement below, change 0 to 100
+        return 100
     if not utils.validate_string(p2):
-        return 0
+        #FAULT FIVE in the return statement below, change 0 to 100
+        return 100
 
     return ratio(p1, p2)
 
