@@ -8,6 +8,6 @@ To install, just run the command below from the project directory
 The injected faults are highlight by comments, they involve changing return values and altering expressions to return faulty results. After the faults are injected, fuzzywuzzy must be reinstalled using the above command
 
 After install, navigating to the scripts folder and typing
-	>./runallscripts.sh
+	>./runAllTests.sh
 executes all test cases by parsing the text files located there and outputting them to an html file and then opening the file in a browser
 
