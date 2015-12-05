@@ -1,7 +1,7 @@
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 import os
-outputFile = open("../reports/testReport.html","w")
+outputFile = open("reports/testReport.html","w")
 outputFile.write("<html>")
 outputFile.write("<center>")
 outputFile.write("<table border='1'  bordercolor='#FFFFFF'>")
@@ -14,8 +14,8 @@ outputFile.write("<td bgcolor='#E0DFEE'><center><FONT SIZE='3'>Input parameters<
 outputFile.write("<td bgcolor='#E0DFEE'><center><FONT SIZE='3'>Actual output</td>")
 outputFile.write("<td bgcolor='#E0DFEE'><center><FONT SIZE='3'>Expected output</td>")
 outputFile.write("<td bgcolor='#E0DFEE'><center><FONT SIZE='3'>Result</td>")
-for file in os.listdir("../testCases"):
-	f=open("../testCases/"+file,"r")
+for file in os.listdir("testCases"):
+	f=open("testCases/"+file,"r")
 	lines=f.readlines()
 	outputFile.write("<tr>");
 	outputFile.write("<td bgcolor='#E0DFEE'><center><FONT SIZE='3'> " + lines[0].rstrip() + "</td>")
@@ -36,8 +36,10 @@ for file in os.listdir("../testCases"):
 		outputFile.write("FAILED")
 	outputFile.write("</td>")
 	outputFile.write("</tr>")
+	f.close()
 outputFile.write("</table>")
 outputFile.write("</center>")
 outputFile.write("</html>")
+outputFile.close()
 
 	

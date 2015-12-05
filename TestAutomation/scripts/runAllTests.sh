@@ -1,3 +1,3 @@
 #!/bin/sh
-python test.py
-open ../reports/testReport.html
+python scripts/test.py
+open reports/testReport.html
