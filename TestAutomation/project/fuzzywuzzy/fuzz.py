@@ -48,7 +48,7 @@ def ratio(s1, s2):
     m = SequenceMatcher(None, s1, s2)
     #FAULT ONE in the return statement below, change 100 to 1000
     #FAULT TWO in the return statement below, change * to +
-    return utils.intr(1000 + m.ratio())
+    return utils.intr(100 * m.ratio())
 
 
 # todo: skip duplicate indexes for a little more speed
@@ -89,7 +89,7 @@ def partial_ratio(s1, s2):
             scores.append(r)
 
     #FAULT THREE in the return statement below, change 100 to 1000
-    return int(1000 * max(scores))
+    return int(100 * max(scores))
 
 
 ##############################
@@ -206,10 +206,10 @@ def QRatio(s1, s2, force_ascii=True):
 
     if not utils.validate_string(p1):
         #FAULT FOUR in the return statement below, change 0 to 100
-        return 100
+        return 0
     if not utils.validate_string(p2):
         #FAULT FIVE in the return statement below, change 0 to 100
-        return 100
+        return 0
 
     return ratio(p1, p2)
 
